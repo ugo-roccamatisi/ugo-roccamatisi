@@ -1,6 +1,6 @@
 # Hi, I'm Ugo Roccamatisi
 
-Aerospace engineering student specialized in data science and AI, with a focus on **physics-informed machine learning for aircraft systems**.
+Aerospace engineering student specialized in data science and AI.
 
 - MSc in Aerospace Vehicle Design, **Cranfield University** (double degree, thesis with **Airbus** on A320 brake temperature estimation)
 - Engineering degree in progress at **Centrale Lille** (graduating Sept. 2027)
