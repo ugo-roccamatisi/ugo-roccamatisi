@@ -5,7 +5,6 @@ Aerospace engineering student specialized in data science and AI.
 - MSc in Aerospace Vehicle Design, **Cranfield University** (double degree, thesis with **Airbus** on A320 brake temperature estimation)
 - Engineering degree in progress at **Centrale Lille** (graduating Sept. 2027)
 - Currently: predictive maintenance intern at **Air France Industries KLM E&M**
-- Looking for a **4 to 6 month end-of-studies internship from April 2027**
 
 **Portfolio: [ugo-roccamatisi.github.io](https://ugo-roccamatisi.github.io)** · [LinkedIn](https://www.linkedin.com/in/ugo-roccamatisi)
 
