@@ -24,6 +24,21 @@ My master's thesis, *Physics-Based Lumped-Parameter Thermal Modelling of Aircraf
 
 The public repository contains a sanitized and reproducible pipeline. Airbus flight data and fitted parameters are not published.
 
+## Coursework
+
+Lab work from Centrale Lille, in English, with executed notebooks and a summary of the results in each README.
+
+| Repository | Topics |
+| --- | --- |
+| [signal-representations-and-inverse-problems](https://github.com/ugo-roccamatisi/signal-representations-and-inverse-problems) | STFT, wavelets, sparse source separation, inverse problems |
+| [fourier-neural-operator-darcy](https://github.com/ugo-roccamatisi/fourier-neural-operator-darcy) | Operator learning: (T)FNO vs U-Net on Darcy flow, zero-shot super-resolution |
+| [rnn-weather-forecasting](https://github.com/ugo-roccamatisi/rnn-weather-forecasting) | GRU and LSTM weather forecasting, scheduled sampling |
+| [mini-gpt-transformers](https://github.com/ugo-roccamatisi/mini-gpt-transformers) | Character-level GPT from scratch, ablations, GPT-2 fine-tuning |
+| [decision-and-machine-learning](https://github.com/ugo-roccamatisi/decision-and-machine-learning) | Regression, classification, trees and forests, PCA |
+| [statistical-estimation](https://github.com/ugo-roccamatisi/statistical-estimation) | EM for Gaussian mixtures, kernel density estimation |
+| [advanced-statistical-estimation](https://github.com/ugo-roccamatisi/advanced-statistical-estimation) | Monte Carlo, MCMC, Gibbs sampling, variational inference |
+| [numerical-optimization](https://github.com/ugo-roccamatisi/numerical-optimization) | Gradient, Newton and BFGS methods, constrained optimization, ISTA |
+
 ## Tools I use
 
 Python · NumPy · SciPy · pandas · PyTorch · scikit-learn · Prophet · Optuna · Streamlit · MATLAB · SolidWorks · 3DEXPERIENCE · Star-CCM+ · OpenVSP · Git
