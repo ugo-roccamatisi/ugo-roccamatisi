@@ -14,7 +14,6 @@ Aerospace engineering student specialized in data science and AI.
 | --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [master-thesis-brake-temperature-estimation-model](https://github.com/ugo-roccamatisi/master-thesis-brake-temperature-estimation-model) | Sanitized public release of my Airbus and Cranfield thesis: a 14-node thermal model, braking-energy reconstruction, calibration and full-day A320 brake-temperature prediction pipeline.                              |
 | [pinn-brake-stack](https://github.com/ugo-roccamatisi/pinn-brake-stack)                                                                 | Physics-informed neural networks for aircraft brake thermal modelling, from the direct to the inverse problem. Direct PINN within 2 K and braking energy identified within 2% from five minutes of noisy sensor data. |
-| [saab-landing-analysis](https://github.com/ugo-roccamatisi/saab-landing-analysis)                                                       | Sensor reliability assessment and touchdown detection using real Saab 340 flight-test data, Welch spectral analysis, coherence and RBF change-point detection.                                                        |
 | [energy-forecasting-prophet](https://github.com/ugo-roccamatisi/energy-forecasting-prophet)                                             | Forecasting 20 years of hourly PJM electricity consumption with Prophet, achieving a 9.7% MAPE on the test year.                                                                                                      |
 | [fpdm-hospital-ai](https://github.com/ugo-roccamatisi/fpdm-hospital-ai)                                                                 | AI for hospital patient-flow prediction with CHU de Lille: clinical-report structuring with LLMs and length-of-stay prediction on MIMIC-IV data.                                                                      |
 | [bwb-hydrogen-aircraft](https://github.com/ugo-roccamatisi/bwb-hydrogen-aircraft)                                                       | Conceptual design of the G-VEGA hydrogen-powered blended-wing-body airliner. Cranfield University group project backed by Airbus, with responsibility for engine integration.                                         |
@@ -26,7 +25,7 @@ The public repository contains a sanitized and reproducible pipeline. Airbus fli
 
 ## Coursework
 
-Lab work from Centrale Lille, in English, with executed notebooks and a summary of the results in each README.
+Lab work from Centrale Lille and Cranfield University, in English, with executed notebooks and a summary of the results in each README.
 
 | Repository | Topics |
 | --- | --- |
@@ -38,6 +37,7 @@ Lab work from Centrale Lille, in English, with executed notebooks and a summary 
 | [statistical-estimation](https://github.com/ugo-roccamatisi/statistical-estimation) | EM for Gaussian mixtures, kernel density estimation |
 | [advanced-statistical-estimation](https://github.com/ugo-roccamatisi/advanced-statistical-estimation) | Monte Carlo, MCMC, Gibbs sampling, variational inference |
 | [numerical-optimization](https://github.com/ugo-roccamatisi/numerical-optimization) | Gradient, Newton and BFGS methods, constrained optimization, ISTA |
+| [saab-landing-analysis](https://github.com/ugo-roccamatisi/saab-landing-analysis) | Saab 340 flight-test data: sensor reliability and touchdown detection (Cranfield, IVHM) |
 
 ## Tools I use
 
