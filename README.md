@@ -20,7 +20,7 @@ Aerospace engineering student specialized in data science and AI.
 | [bwb-hydrogen-aircraft](https://github.com/ugo-roccamatisi/bwb-hydrogen-aircraft)                                                       | Conceptual design of the G-VEGA hydrogen-powered blended-wing-body airliner. Cranfield University group project backed by Airbus, with responsibility for engine integration.                                         |
 | [vrp-metaheuristics](https://github.com/ugo-roccamatisi/vrp-metaheuristics)                                                             | Vehicle routing with metaheuristics, multi-agent systems and tabular Q-Learning. The combined SA and Q-Learning approach reduced cost by approximately 13% compared with the best standalone reference.               |
 
-My master's thesis, *Physics-Based Lumped-Parameter Thermal Modelling of Aircraft Wheel Assembly to Estimate Brake Temperature on an In-Service A320*, was supervised by Dr Fakhre Ali at Cranfield University.
+My master's thesis, *Physics-Based Lumped-Parameter Thermal Modelling of Aircraft Wheel Assembly to Estimate Brake Temperature on an In-Service A320*, was carried out at Cranfield University.
 
 The public repository contains a sanitized and reproducible pipeline. Airbus flight data and fitted parameters are not published.
 
